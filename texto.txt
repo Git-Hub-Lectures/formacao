@@ -1,0 +1,1 @@
+se duas pessoas diferentes em branches diferentes adicionarem ficheiros com o mm nome
